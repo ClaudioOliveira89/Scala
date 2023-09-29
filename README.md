@@ -14,3 +14,4 @@ Principais Recursos:
 - **Notebooks Scala: Utilização de Notebooks Scala para documentar e compartilhar análises de dados interativas, permitindo uma colaboração eficiente entre equipes de Ciência de Dados e Engenharia.**
 - **Este repositório foi projetado para ser um ambiente versátil e abrangente, reunindo ferramentas e recursos necessários para profissionais que trabalham com Ciência de Dados, Engenharia de Dados e Administração de Banco de Dados em Scala.**
 
+![](https://user-images.githubusercontent.com/87618859/271693281-3c7c8365-5859-426a-86a3-1e715c0b7da6.jpg)
