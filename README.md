@@ -1,21 +1,5 @@
 # Scala
 
-### Scala Development Repository for Data Science, Data Engineering, and Database Administration.
-
-This repository has been created for Scala development, with a focus on Data Science, Data Engineering, and Database Administration. It offers support for a wide range of tasks related to these areas, including data processing, analysis, visualization, and database management. Key features include:
-
-Key Features:
-
-- **Data Science Libraries: The repository includes essential Scala libraries for Data Science, such as Apache Spark, Breeze, and Scalalab, enabling efficient manipulation of large datasets and support for mathematical and statistical operations.**
-- **Integration with Databases: Support for integration with various database management systems, allowing effective data connectivity and manipulation.**
-- **Data Visualization: Resources for data visualization, including integration with visualization libraries like Plotly or the creation of custom visualizations.**
-- **Statistical Analysis: Capability to perform advanced statistical analyses, including hypothesis testing, regression, and predictive modeling, using Scala's statistical libraries.**
-- **Batch and Real-Time Data Processing: Flexibility to handle both batch processing with Spark Batch and real-time data processing with Spark Streaming, making it suitable for real-time data analysis and big data processing scenarios.**
-- **Scala Notebooks: Utilization of Scala Notebooks for documenting and sharing interactive data analyses, facilitating efficient collaboration between Data Science and Engineering teams.**
-- **This repository is designed to be a versatile and comprehensive environment, bringing together the tools and resources needed for professionals working in Data Science, Data Engineering, and Database Administration using Scala.**
-
-
-
 ### Repositório de Desenvolvimento em Scala para Ciência de Dados, Engenharia de Dados e Administração de Banco de Dados.
 
 Este repositório foi criado para desenvolvimento e programação em Scala, com ênfase nas áreas de Ciência de Dados, Engenharia de Dados e Administração de Banco de Dados. Ele oferece suporte para uma ampla variedade de tarefas relacionadas a essas áreas, incluindo processamento de dados, análise, visualização e gerenciamento de bancos de dados. Os principais recursos incluem:
